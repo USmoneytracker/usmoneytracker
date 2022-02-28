@@ -170,7 +170,7 @@ form input::placeholder {
   }
 
   .example-image-mobile {
-    display: block;
+    display: none;
   }
 
   .custom-btn {
