@@ -24,11 +24,11 @@ export default function Landing() {
             </button>
           </Link>
           <img className="example-image" src={exampleImage} alt="example-pic" />
-          <img
+          {/* <img
             className="example-image-mobile"
             src={exampleImageMobile}
             alt="example-mobile-pic"
-          />
+          /> */}
         </div>
       </Section>
     </Page>

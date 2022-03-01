@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
-import Logo from "../../assets/images/Money-Count-Logo.png";
+import Logo from "../../assets/images/MONEY.TRACKER..png";
 import { getUser } from "../../reducks/users/selectors";
 import ProfileHeader from "./ProfileHeader";
 

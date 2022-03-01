@@ -20,7 +20,7 @@
   width: 150px;
   display: block;
   cursor: pointer;
-  background-color: rgba(0, 0, 0, 0.09);
+  background-color: rgb(16 16 16);
   border-radius: 75px;
 }
 
